@@ -5,7 +5,7 @@ Hi, I'm a junior high school student.
 I like to develop with **Javascript** and **Typescript**.  
 
 ~~Great~~ Momu54 said:  
-> Open source can change the world
+> Open source can change the world!
 
 <!--
 **momu54/momu54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
