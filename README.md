@@ -2,9 +2,9 @@
 ## A developer.
 
 Hi, I'm a junior high school student.  
-I like to develop with Javascript and Typescript.  
+I like to develop with **Javascript** and **Typescript**.  
 
-Great Momu54 said:  
+~~Great~~ Momu54 said:  
 > Open source can change the world
 
 <!--
